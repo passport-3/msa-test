@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: '기능추가 이슈 '
 title: ''
 labels: ''
 assignees: ''
